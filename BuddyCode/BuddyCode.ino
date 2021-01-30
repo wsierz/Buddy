@@ -1,5 +1,5 @@
 /*
-    Code by Will Sierzputowski
+    Coded by Will Sierzputowski
     Jan. 30, 2021
 
  Soruces of code:
