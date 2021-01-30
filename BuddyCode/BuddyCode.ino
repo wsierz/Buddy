@@ -1,9 +1,12 @@
 /*
- * Some code (setup code) from
-  Heart beat plotting!
-  By: Nathan Seidle @ SparkFun Electronics
-  Date: October 20th, 2016
-  https://github.com/sparkfun/MAX30105_Breakout
+    Code by Will Sierzputowski
+    Jan. 30, 2021
+
+ Soruces of code:
+  Some code (setup code) from
+    Heart beat plotting!
+    By: Nathan Seidle @ SparkFun Electronics
+    Date: October 20th, 2016
 
   Ardunio Setup
   Hardware Connections (Breakoutboard to Arduino):
